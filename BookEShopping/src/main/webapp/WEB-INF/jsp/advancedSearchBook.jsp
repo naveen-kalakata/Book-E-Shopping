@@ -48,7 +48,7 @@ background-size:50%;
 <input placeholder="book name keyword" name="keyword" value=""/>
 <input type="submit" placeholder="Submit"> 
 <br>
-<font color="green"> ${msg}</font>
+<font color="black"> ${msg}</font>
 </form>
 <table align="center" cellpadding="5" cellspacing="5" border="1">
 <thead>
